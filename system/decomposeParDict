@@ -14,8 +14,7 @@ FoamFile
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 
-numberOfSubdomains 4;
-
+numberOfSubdomains 4; // Number of cores
 method          scotch;
 
 
